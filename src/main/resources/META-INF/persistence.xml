@@ -5,6 +5,7 @@
              version="3.0">
     <persistence-unit name="default">
         <class>entities.Post</class>
+        <class>entities.Comment</class>
 
         <properties>
             <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/demoposts_api"/>

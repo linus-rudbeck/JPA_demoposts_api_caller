@@ -1,0 +1,1 @@
+CREATE DATABASE demoposts_api;
